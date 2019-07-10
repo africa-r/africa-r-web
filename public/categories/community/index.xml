@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>community on AfricaR</title>
+    <link>/categories/community/</link>
+    <description>Recent content in community on AfricaR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building an R community in Africa</title>
+      <link>/post/kampalr-post/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/kampalr-post/</guid>
+      <description>R in Africa Over the past 2 years, we have seen R transform from just an academic and health care research language to one of the major languages in the budding data science community in Africa. For a long time, data scientists and related disciplines have relied on R and many other packages to analyse data, however, the broader developer community didn’t fully understand its power in the tech industry.</description>
+    </item>
+    
+  </channel>
+</rss>
