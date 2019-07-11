@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AfricaR</title>
-    <link>/</link>
+    <link>https://africa-r.org/</link>
     <description>Recent content on AfricaR</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://africa-r.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Building an R community in Africa</title>
-      <link>/post/lornar-post/</link>
+      <link>https://africa-r.org/post/lornar-post/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/lornar-post/</guid>
+      <guid>https://africa-r.org/post/lornar-post/</guid>
       <description>
 
 
@@ -40,10 +40,10 @@ create room for it in learning and early career choices. AfricaR is shining the 
     
     <item>
       <title>A new-bie in the KampalR community</title>
-      <link>/post/kampalr-post/</link>
+      <link>https://africa-r.org/post/kampalr-post/</link>
       <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/kampalr-post/</guid>
+      <guid>https://africa-r.org/post/kampalr-post/</guid>
       <description>
 
 
@@ -75,16 +75,6 @@ We have also introduced study jams where you can start from the basics all the w
 We also have the ladies group &lt;a href=&#34;https://twitter.com/Rladieskampala?s=17&#34;&gt;&lt;code&gt;@Rladieskampala&lt;/code&gt;&lt;/a&gt; where we can start our discussions with the latest hair style and plot the coolest graphs in R.
 Want to learn more about the community and more stories from the community, follow me &lt;a href=&#34;http://twitter.com/nlimilimi&#34;&gt;&lt;code&gt;@nlimilimi&lt;/code&gt;&lt;/a&gt; and follow &lt;a href=&#34;https://twitter.com/kampalR&#34;&gt;&lt;code&gt;@KampalR&lt;/code&gt;&lt;/a&gt; to get the latest in the community.&lt;/p&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

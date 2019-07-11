@@ -3,7 +3,7 @@ title: "A newbie in the KampalR community"
 author: "Nelda"
 date: 2019-07-05
 categories: ["community"]
-tags: ["community", "kampalr]
+tags: ["community", "kampalr"]
 ---
 
 ```{r setup, include=FALSE}
