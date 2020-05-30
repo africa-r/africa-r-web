@@ -1,32 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on AfricaR</title>
+    <title>Projects | AfricaR</title>
     <link>/project/</link>
-    <description>Recent content in Projects on AfricaR</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/external-project/</guid>
-      <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
+      <title></title>
+      <link>/project/geocomputationwithr/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/geocomputationwithr/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/internal-project/</guid>
-      <description>An example of using the in-built project page.</description>
+      <title></title>
+      <link>/project/gettingstartedwithrmarkdown/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/gettingstartedwithrmarkdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/githubawesome/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/githubawesome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/kerasr/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/kerasr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/paulvanderlaken/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/paulvanderlaken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/r4ds/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/r4ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/rstudio-education/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/rstudio-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/rstudioaiblog/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/rstudioaiblog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/rstudiowebinars/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/rstudiowebinars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/tidymodels/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/tidymodels/</guid>
+      <description></description>
     </item>
     
   </channel>

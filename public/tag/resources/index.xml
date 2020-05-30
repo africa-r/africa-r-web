@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources | AfricaR</title>
+    <link>/tag/resources/</link>
+      <atom:link href="/tag/resources/index.xml" rel="self" type="application/rss+xml" />
+    <description>Resources</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Resources</title>
+      <link>/tag/resources/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/project/geocomputationwithr/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/geocomputationwithr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/gettingstartedwithrmarkdown/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/gettingstartedwithrmarkdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/githubawesome/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/githubawesome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/kerasr/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/kerasr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/paulvanderlaken/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/paulvanderlaken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/r4ds/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/r4ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/rstudio-education/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/rstudio-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/rstudioaiblog/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/rstudioaiblog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/rstudiowebinars/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/rstudiowebinars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/tidymodels/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/tidymodels/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
