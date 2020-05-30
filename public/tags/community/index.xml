@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>community on AfricaR</title>
-    <link>https://africa-r.org/tags/community/</link>
+    <link>/tags/community/</link>
     <description>Recent content in community on AfricaR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://africa-r.org/tags/community/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/community/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Building an R community in Africa</title>
-      <link>https://africa-r.org/post/lornar-post/</link>
+      <link>/post/lornar-post/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://africa-r.org/post/lornar-post/</guid>
+      <guid>/post/lornar-post/</guid>
       <description>R in Africa Over the past 2 years, we have seen R transform from just an academic and health care research language to one of the major languages in the budding data science community in Africa. For a long time, data scientists and related disciplines have relied on R and many other packages to analyse data, however, the broader developer community didn’t fully understand its power in the tech industry.</description>
     </item>
     
     <item>
       <title>A new-bie in the KampalR community</title>
-      <link>https://africa-r.org/post/kampalr-post/</link>
+      <link>/post/kampalr-post/</link>
       <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://africa-r.org/post/kampalr-post/</guid>
+      <guid>/post/kampalr-post/</guid>
       <description>It’s been 2 years 3 months since I have been affiliated with the Kampala R User Group aka @KampalR
 How it all started Alas January, everyone is excited about the new year, resolutions flying East, West and everyone eager and anticipating a year of greatness. For some of us, especially when you have been over a year out of campus and into the real world, it’s a time to reflect and rethink what direction you want your life to take.</description>
     </item>

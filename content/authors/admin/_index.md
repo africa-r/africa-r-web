@@ -1,11 +1,18 @@
 ---
 authors:
 - admin
+
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "africarusers@gmail.com".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/AfricaRUsers
+  
 ---
 
-Africa R is a consortium of passionate Africa R user groups and users innovating with R
-every day, and are inspired to share their experience as well as communicate their findings
-to a global audience.
+Africa R is a consortium of passionate Africa R user groups and users innovating with R every day, and are inspired to share their experience as well as communicate their findings to a global audience.
 
 <style>
 body {text-align: justify}

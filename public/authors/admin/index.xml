@@ -1,25 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AfricaR</title>
-    <link>https://africa-r.org/authors/admin/</link>
+    <link>/authors/admin/</link>
     <description>Recent content on AfricaR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://africa-r.org/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://africa-r.org/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://africa-r.org/authors/admin/</guid>
-      <description>Africa R is a consortium of passionate Africa R user groups and users innovating with R every day, and are inspired to share their experience as well as communicate their findings to a global audience.
-This consortium was birthed from the underrepresentation and minority involvement of the African population in every role and area of participation, whether as R developers, conference speakers, educators, users, researchers, leaders and package maintainers.
-As a community, our mission is to achieve improved representation by encouraging, inspiring, and empowering the African population of all genders who are underrepresented in the global R community.</description>
-    </item>
     
   </channel>
 </rss>
