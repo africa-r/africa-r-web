@@ -49,12 +49,11 @@ social:
 - icon: blog
   icon_pack: fa
   link: https://shelkariuki.netlify.app/ 
-- icon: ":kenya:"
-  icon_pack: "emoji"
+
 
 superuser: false
 
-title: Shelmith Kariuki
+title: Shelmith Kariuki 🇰🇪
 
 user_groups:
 - Leadership

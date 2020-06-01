@@ -16,6 +16,7 @@ education:
     year: 2017
     
 email: "anicet.ebou@gmail.com"
+
 interests:
 - Genomic Data Science
 - Algorithms and methods
@@ -45,8 +46,11 @@ social:
 - icon: blog
   icon_pack: fa
   link: https://anicet.xyz/ 
+  
 superuser: false
-title: Anicet Ebou
+
+title: Anicet Ebou 🇨🇮
+
 user_groups:
 - Leadership
 ---

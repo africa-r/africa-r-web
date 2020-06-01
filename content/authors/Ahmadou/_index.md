@@ -55,7 +55,7 @@ social:
   
 superuser: false
 
-title: Ahmadou Dicko
+title: Ahmadou Dicko 🇸🇳
 
 user_groups:
 - Leadership

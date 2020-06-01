@@ -52,7 +52,7 @@ social:
 
 superuser: false
 
-title: Nelda Limilimi
+title: Nelda Limilimi 🇺🇬
 
 user_groups:
 - Leadership
