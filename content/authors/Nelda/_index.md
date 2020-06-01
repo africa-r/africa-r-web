@@ -2,6 +2,8 @@
 authors:
 - Nelda
 
+weight: 3
+
 bio: 
 
 education:

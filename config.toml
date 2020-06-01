@@ -14,7 +14,7 @@ baseurl = "https://africa-r.org/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "&copy; AfricaR {year}"
 
 ############################
 ## Advanced options below ##
@@ -74,8 +74,9 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
 [params]
-leadership = ["Shelmith Nyagathiri Kariuki", "Ahmadou Dicko", "Nelda Limilimi", "Anicet Ebou"]
-
+  leadership = ["Shelmith Nyagathiri Kariuki", "Ahmadou Dicko", "Nelda Limilimi", "Anicet Ebou"]
+  footer = "&copy; AfricaR"
+  
 # Taxonomies.
 [taxonomies]
   tag = "tags"

@@ -2,6 +2,8 @@
 authors:
 - Shel
 
+weight: 1
+
 bio: 
 
 education:
@@ -20,6 +22,7 @@ interests:
 - R
 - Python
 - Training
+- Marketing analytics
 
 organizations:
 - name: "Nairobi, Kenya"
@@ -49,7 +52,7 @@ social:
 
 superuser: false
 
-title: Shelmith Nyagathiri Kariuki
+title: Shelmith Kariuki
 
 user_groups:
 - Leadership

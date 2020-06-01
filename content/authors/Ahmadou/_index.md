@@ -2,6 +2,8 @@
 authors:
 - Ahmadou
 
+weight: 2
+
 bio: 
 
 education:
@@ -52,6 +54,7 @@ social:
   link: https://ahmadoudicko.com
   
 superuser: false
+
 title: Ahmadou Dicko
 
 user_groups:
