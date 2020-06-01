@@ -75,7 +75,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [params]
   leadership = ["Shelmith Nyagathiri Kariuki", "Ahmadou Dicko", "Nelda Limilimi", "Anicet Ebou"]
-  footer = "&copy; AfricaR"
+
   
 # Taxonomies.
 [taxonomies]
