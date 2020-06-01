@@ -47,7 +47,7 @@ title: Anicet Ebou
 user_groups:
 - Leadership
 ---
- <style>
+<style>
 body {text-align: justify}
 </style>
 Anicet Ebou is a PhD student in bioinformatics. He is working in designing tools and methods for molecular and agricultural data. He was previously a consultant for international companies like Seedstars or IRD. He is the lead organizer of Abidjan R users and led to organize satRday Abidjan.
