@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Home"
-  url = "/landing"
+  url = "#home"
   weight = 10
 
   
