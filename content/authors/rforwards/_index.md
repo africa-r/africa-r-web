@@ -5,13 +5,13 @@ authors:
 bio: 
 
 
-email: "rforwards@gmail.com"
+email: "rowforwards@gmail.com "
 
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'rforwards@gmail.com'
+  link: 'rowforwards@gmail.com '
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/R_Forwards
@@ -21,7 +21,7 @@ social:
 
 superuser: false
 
-title: R Forwards
+title: Forwards
 
 user_groups:
 - Advisory
