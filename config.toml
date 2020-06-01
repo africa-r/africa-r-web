@@ -73,6 +73,9 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   quality = 90
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
+
+leadership = ["Ahmadou Dicko", "Anicet Ebou", "Shelmith Nyagathiri Kariuki", "Nelda Limilimi"]
+
 # Taxonomies.
 [taxonomies]
   tag = "tags"

@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Learning Resources"
@@ -11,6 +11,9 @@ subtitle = ""
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
+  
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 5
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -27,11 +30,11 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Resources"
-    tag = "Resources"
+    tag = ""
   
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "4"
 
   # Toggle between the various page layout types.
   #   1 = List

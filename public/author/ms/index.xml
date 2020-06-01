@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ms | AfricaR</title>
+    <link>/author/ms/</link>
+      <atom:link href="/author/ms/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ms</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/ms/avatar_huc2b6f175d529747ed447fd43ad63158b_20155_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Ms</title>
+      <link>/author/ms/</link>
+    </image>
+    
+  </channel>
+</rss>
