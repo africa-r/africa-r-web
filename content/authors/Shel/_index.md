@@ -49,7 +49,7 @@ social:
 - icon: blog
   icon_pack: fa
   link: https://shelkariuki.netlify.app/ 
-- icon = :kenya:
+- icon: ":kenya:"
   icon_pack: "emoji"
 
 superuser: false
