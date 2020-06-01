@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Forwards | AfricaR</title>
+    <link>/author/r-forwards/</link>
+      <atom:link href="/author/r-forwards/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Forwards</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/r-forwards/avatar_hua31f85bb1b84c7b902b3be1354672c0d_65078_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>R Forwards</title>
+      <link>/author/r-forwards/</link>
+    </image>
+    
+  </channel>
+</rss>
