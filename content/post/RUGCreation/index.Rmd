@@ -32,6 +32,8 @@ AfricaR  supports the R community in Africa in the following ways:
 We have outlined a few steps that one could follow, to create a new RUG in their city.
 
 **1. Create a leadership team**
+
+
 <style>
 body {text-align: justify}
 </style>

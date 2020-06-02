@@ -30,3 +30,5 @@ The primary objective of Africa R is to support already existing R Users across 
 enthusiasts to embrace the full potential of R programming, through fostering a collaborative
 continental network of R gurus, mentors, learners, developers and leaders, to help facilitate
 individual and collective progress worldwide.
+
+_❗We would love to help come up with more R User Groups in Africa. If you are interested in creating one, please go through [this post](https://africa-r.org/post/rugcreation/), and please [reach out](https://africa-r.org/contact/) if you need more information on how to go about it._
