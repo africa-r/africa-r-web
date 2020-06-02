@@ -43,7 +43,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dickoa
-- icon: skype
+- icon: skype 
   icon_pack: fab
   link: live:dicko.ahmadou.h
 - icon: linkedin
@@ -54,8 +54,8 @@ social:
   link: https://ahmadoudicko.com
   
 superuser: false
-
-title: Ahmadou Dicko 🇸🇳
+  
+title: Ahmadou Dicko 🇲🇱
 
 user_groups:
 - Leadership

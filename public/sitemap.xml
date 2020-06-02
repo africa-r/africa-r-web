@@ -34,6 +34,18 @@
   </url>
   
   <url>
+    <loc>/author/vebashini-naidoo/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dennis-irorere/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/mohammed-ibrahim-ali/</loc>
+  </url>
+  
+  <url>
     <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -41,6 +53,31 @@
   <url>
     <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/blog/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/rugcreation/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/satrdayabidjan/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -234,22 +271,12 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-03-10T02:20:01-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/community/</loc>
     <lastmod>2020-03-10T02:20:01-07:00</lastmod>
   </url>
   
   <url>
     <loc>/category/community/</loc>
-    <lastmod>2020-03-10T02:20:01-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2020-03-10T02:20:01-07:00</lastmod>
   </url>
   
@@ -363,18 +390,6 @@
   
   <url>
     <loc>/author/r-consortium/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
   
 </urlset>

@@ -5,7 +5,7 @@
     <link>/category/blog/</link>
       <atom:link href="/category/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>blog</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© AfricaR 2020</copyright><lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>blog</title>
@@ -13,32 +13,48 @@
     </image>
     
     <item>
-      <title>Introducing rCensusKenya</title>
-      <link>/post/lornar/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/lornar/</guid>
+      <title>Guidelines for creating an R User Group</title>
+      <link>/post/rugcreation/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/rugcreation/</guid>
       <description>
 
 
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;0.1&lt;/span&gt; R Markdown&lt;/h2&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;When you click the &lt;strong&gt;Knit&lt;/strong&gt; button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;0.2&lt;/span&gt; Including Plots&lt;/h2&gt;
-&lt;p&gt;You can also embed plots, for example:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/post/LornaR/index_files/figure-html/pressure-1.png&#34; width=&#34;1536&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Note that the &lt;code&gt;echo = FALSE&lt;/code&gt; parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;AfricaR supports the R community in Africa in the following ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Creation of new R User Groups. An R User Group (RUG), is a group of people who come together to learn R. These can be students studying in the same university or people who live/work in the same city. AfricaR provides guidelines and technical backup to facilitate the creation of new RUGs.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Publicizing R related work developed by Africans, on twitter via @&lt;a href=&#34;https://twitter.com/AfricaRUsers&#34;&gt;AfricaRUsers&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sharing course materials that people can use to either start out or advance in R. We are currently working on tutorials in french to assist members from the Francophone countries.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We have outlined a few steps that one could follow, to create a new RUG in their city.&lt;/p&gt;
+&lt;strong&gt;1. Create a leadership team&lt;/strong&gt;
+&lt;style&gt;
+body {text-align: justify}
+&lt;/style&gt;
+&lt;p&gt;If you are reading this guideline, it is probably because you want to create a R User Group in your city, meaning you will be the principal organizer of this RUG. We recommend that you really calculate the required time, involvement needed and the will to help people as a principal organizer of a local RUG, before jumping in. Leading an RUG involves teamwork, so you should consider creating a leadership team by finding 2 or 3 people that share your vision to create a local RUG. These people will help you to manage the RUG, especially when you need to take care of personal commitments. The leadership team should join the RUG organizers slack workspace, via &lt;a href=&#34;https://rusergroups.slack.com/join/shared_invite/MjEyNDA3MzcyMjczLTE1MDAwMzU1MTgtODRjNGJlY2RiOA&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Create social media accounts&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The R community is more alive on twitter, than on any other social media. If you wish, you could create a twitter account for your RUG, naming it after your city eg &lt;span class=&#34;citation&#34;&gt;@CityXRUG&lt;/span&gt;. To engage with the global R community, follow the #rstats hashtag. You can find more information on how to engage with the R community on twitter, on &lt;a href=&#34;https://aebou.rbind.io/posts/2017/12/how-to-follow-and-engage-with-the-r-community/&#34;&gt;this link&lt;/a&gt; and on &lt;a href=&#34;https://www.t4rstats.com/&#34;&gt;this link&lt;/a&gt;.
+A page on meetup.com would help you too and you can open one for free on meetup.com. You can also create a facebook account to draw local peoples to your RUG. Feel free to work with any social media page that you deem fit. Also, please follow @&lt;a href=&#34;https://twitter.com/AfricaRUsers&#34;&gt;AfricaRUsers&lt;/a&gt; ,so that we can spread word about the new RUG.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Getting financial assistance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The R consortium, through its program to support RUGs, offers some financial aid and a meetup pro membership. You can find more information &lt;a href=&#34;https://www.r-consortium.org/&#34;&gt;on this website&lt;/a&gt; . Once you have a meetup account, please add your group &lt;a href=&#34;https://jumpingrivers.github.io/meetingsR/r-user-groups.html#middle-east-africa&#34;&gt;on this site&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Organizing meetup events&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Generally, when organizing meetup events, two things need to be considered: a venue and speakers. We recommend that you get in touch with universities, co-working spaces and other spaces that you can have, for free. This will help you mitigate the costs that come with running events.&lt;br /&gt;
+The first event should be the launch event. Here, the leadership team would ideally introduce themselves to the participants. It would also be an opportunity to share the mission and vision of the RUG, and also inform people on the importance of learning R. You can also look for an external speaker, i.e someone who has been using R at work, for them to share their work experience with the participants. You can contact the &lt;a href=&#34;https://africa-r.org/contact/&#34;&gt;AfricaR leadership team&lt;/a&gt;, in case you need help looking for a speaker. The first event should then be publicized on social media. This is ideally done via posters, that detail information such as event date and time, speaker profile and topic of the event. You can reach out to the leadership team, so that we can help you create posters and also publicize the event on twitter.
+Please see the &lt;a href=&#34;https://github.com/rladies/starter-kit/wiki/Organising-Events&#34;&gt;R-Ladies Starter Kit&lt;/a&gt; for more ideas about planning the launch event and future events.&lt;/p&gt;
+&lt;p&gt;Incase you need further clarity, please do reach us through the &lt;a href=&#34;https://africa-r.org/contact/&#34;&gt;contact form&lt;/a&gt;, or send us a direct email via &lt;em&gt;&lt;a href=&#34;mailto:africarusers@gmail.com&#34; class=&#34;email&#34;&gt;africarusers@gmail.com&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Cheers!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The 1st West African SatRday Conference - Abidjan 2020</title>
+      <link>/post/satrdayabidjan/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/post/satrdayabidjan/</guid>
+      <description>
+
+
+&lt;p&gt;Coming soon!!&lt;/p&gt;
 </description>
     </item>
     
