@@ -36,7 +36,7 @@ role: Software Engineer
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'moh_fcis@yahoo.com' 
+  link: 'mailto:moh_fcis@yahoo.com' 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/moh_fcis
