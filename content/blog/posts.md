@@ -41,7 +41,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["70px", "20px", "70px", "20px"]
+  padding = ["70px", "0", "70px", "0"]
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -62,6 +62,8 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
+ 
+
   
 [advanced]
  # Custom CSS. 
