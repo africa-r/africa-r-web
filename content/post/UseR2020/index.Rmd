@@ -1,0 +1,86 @@
+---
+title: "AfricaR, MiR Community, and R-Ladies Global work together to bring useR! 2020 tutorials to the whole R community" 
+author: "The leadership team"
+date: 2020-06-09
+categories: ["blog"]
+tags: []
+images: []
+output:
+  blogdown::html_page:
+    toc: false
+    toc_depth: 1
+    number_sections: false
+    fig_width: 16
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/AfricaRUsers
+    
+---
+ <style>
+body {text-align: justify}
+</style>
+
+Authors: Anicet Ebou (on behalf of AfricaR Core Team) and Danielle Smalls (on behalf of MiR Leadership)
+
+We are extremely excited to announce that organizers from [AfricaR](https://africa-r.org), the [MiR’s community](https://medium.com/@doritolay/introducing-mir-a-community-for-underrepresented-users-of-r-7560def7d861), and R-Ladies will facilitate the online tutorial sessions for useR! 2020. In addition to taking deep dives into R topics from the tutorial experts, useR! 2020 attendees will have the opportunity to meet inclusive community organizers and learn more about the communities they serve. We hope to increase the representation in attendance of members from these inclusive communities within the tutorial sessions. 
+
+
+# AfricaR
+
+AfricaR is a consortium of passionate Africa R user groups and users innovating with R every day, who are inspired to share their experience as well as communicate their findings to a global audience. This consortium was born from the underrepresentation and minority involvement of the African population in every role and area of participation, whether as R developers, conference speakers, educators, users, researchers, leaders, and package maintainers.
+
+As a community, AfricaR mission is to achieve improved representation by encouraging, inspiring, and empowering the African population of all genders who are underrepresented in the global R community.
+
+The primary objective of AfricaR is to support already existing R Users across Africa, and R enthusiasts to embrace the full potential of R programming, through fostering a collaborative continental network of R gurus, mentors, learners, developers, and leaders, to help facilitate individual and collective progress worldwide.
+
+
+AfricaR  supports the R community in Africa by:
+
++ Creating new R User Groups (RUGs): AfricaR provides guidelines and technical backup to facilitate the creation of new RUGs.
+
++ Publicizing R-related work developed by Africans, on twitter via @[AfricaRUsers](https://twitter.com/AfricaRUsers).
+
++ Sharing course materials that people can use to either start out or advance in R. We are currently working on tutorials in French to assist members from the francophone countries.
+
+# MiR
+
+MiR provides a space of belonging and support for people who identify as underrepresented minority R users (Mi-useRs). Our goal is to ensure that there are opportunities for the underrepresented. We also provide opportunities for underrepresented Mi-useRs to contribute to the R community in various aspects.
+
+MiR currently supports community members in the following ways:
+
++ Support for the RStudio Certification process:
+    + Teaching exam presentation prep
+    
+    + Q&A with peers who are certified RStudio instructors
+    
++ MiR Slack:
+
+    + A space for Mi-useRs and allies to network and to share various professional development opportunities. Sign-up to join the slack group here: https://bit.ly/2unAM8b
+    
+    
++ MiR member highlights:
+    
+    + Newsletter, social media, and website highlights of members of MiR’s community and the work they do
+
+We hope to uplift and empower the work of R users that are members from underrepresented communities that may include(list not exclusive): members of racial and gender minorities, members of the disabled community, and members of the LGBTQ community. 
+
+MiR provides a space of belonging and support for people who identify as underrepresented minority R users (Mi-useRs). We hope to uplift and empower the work of R users that are members from communities that may include(list not exclusive): members of racial and gender minorities, members of the disabled community, and members of the LGBTQ community. Our goal is to ensure that there are opportunities for members of these communities to receive support and contribute to the R community in various aspects. 
+
+# Organization of useR! Tutorials
+
+We thank all tutorial leads that graciously agreed to teach their tutorials online. useR! 2020 tutorials will be held for free in July featuring outstanding tutorial leads from around the world. Check out the [tutorials](https://docs.google.com/spreadsheets/d/1qaQ6dARwMjAJ2oG0KZwzMvY4fJmXsSz_i-dPcg3dUmE/edit?usp=sharing) page to see all tutorials that will be held in July. 
+
+If you are an AfricaR RUG organizer who wants to host one of these tutorials, please reach out to africarusers@gmail.com, or DM Anicet Ebou (@anicetebou) on Twitter or in the R users group organizer Slack. If you are an R-Ladies chapter organizer who wants to host a tutorial, you will find further information on how to do this in R-Ladies Global organizer Slack.
+ 
+If you are not an organizer but are looking forward to attending one of these amazing useR! 2020 tutorials, stay tuned for future announcements on how to attend!
+
+A HUGE thanks to the whole team organizing useR! 2020 who are working very hard to shift useR! 2020 to a virtual conference. 
+
+We look forward to meeting you in the tutorial sessions! 
+
+
+
+
