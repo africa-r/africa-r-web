@@ -20,13 +20,13 @@
       <description>
 
 
-&lt;style&gt;
-body {text-align: justify}
-&lt;/style&gt;
 &lt;p&gt;Authors: Anicet Ebou (on behalf of AfricaR Core Team) and Danielle Smalls (on behalf of MiR Leadership)&lt;/p&gt;
 &lt;p&gt;We are extremely excited to announce that organizers from &lt;a href=&#34;https://africa-r.org&#34;&gt;AfricaR&lt;/a&gt;, the &lt;a href=&#34;https://medium.com/@doritolay/introducing-mir-a-community-for-underrepresented-users-of-r-7560def7d861&#34;&gt;MiR’s community&lt;/a&gt;, and R-Ladies will facilitate the online tutorial sessions for useR! 2020. In addition to taking deep dives into R topics from the tutorial experts, useR! 2020 attendees will have the opportunity to meet inclusive community organizers and learn more about the communities they serve. We hope to increase the representation in attendance of members from these inclusive communities within the tutorial sessions.&lt;/p&gt;
 &lt;div id=&#34;africar&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;AfricaR&lt;/h1&gt;
+&lt;style&gt;
+body {text-align: justify}
+&lt;/style&gt;
 &lt;p&gt;AfricaR is a consortium of passionate Africa R user groups and users innovating with R every day, who are inspired to share their experience as well as communicate their findings to a global audience. This consortium was born from the underrepresentation and minority involvement of the African population in every role and area of participation, whether as R developers, conference speakers, educators, users, researchers, leaders, and package maintainers.&lt;/p&gt;
 &lt;p&gt;As a community, AfricaR mission is to achieve improved representation by encouraging, inspiring, and empowering the African population of all genders who are underrepresented in the global R community.&lt;/p&gt;
 &lt;p&gt;The primary objective of AfricaR is to support already existing R Users across Africa, and R enthusiasts to embrace the full potential of R programming, through fostering a collaborative continental network of R gurus, mentors, learners, developers, and leaders, to help facilitate individual and collective progress worldwide.&lt;/p&gt;

@@ -19,9 +19,6 @@ links:
   url: https://twitter.com/AfricaRUsers
     
 ---
- <style>
-body {text-align: justify}
-</style>
 
 Authors: Anicet Ebou (on behalf of AfricaR Core Team) and Danielle Smalls (on behalf of MiR Leadership)
 
@@ -29,6 +26,9 @@ We are extremely excited to announce that organizers from [AfricaR](https://afri
 
 
 # AfricaR
+ <style>
+body {text-align: justify}
+</style>
 
 AfricaR is a consortium of passionate Africa R user groups and users innovating with R every day, who are inspired to share their experience as well as communicate their findings to a global audience. This consortium was born from the underrepresentation and minority involvement of the African population in every role and area of participation, whether as R developers, conference speakers, educators, users, researchers, leaders, and package maintainers.
 
