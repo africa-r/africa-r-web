@@ -2,6 +2,8 @@
 authors:
 - rforwards
 
+weight: 2
+
 bio: 
 
 
@@ -24,7 +26,7 @@ superuser: false
 title: Forwards
 
 user_groups:
-- Advisory
+- Advisors
 ---
  <style>
 body {text-align: justify}

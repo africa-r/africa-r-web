@@ -26,7 +26,7 @@ font = "rose"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -37,7 +37,7 @@ font_size = "L"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Person"
+site_type = "Organization"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "Africa R Users"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Africa R is a consortium of passionate Africa R user groups and users innovating with R every day, and are inspired to share their experience as well as communicate their findings to a global audience."
 
 ############################
 ## Site Features
@@ -104,10 +104,10 @@ phone = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+#office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
