@@ -3,7 +3,7 @@ authors:
 - rconsortium
 
 bio: 
-
+weight: 1
 
 email: "rconsortium@gmail.com"
 
@@ -24,7 +24,7 @@ superuser: false
 title: R Consortium
 
 user_groups:
-- Advisory
+- Advisors
 ---
  <style>
 body {text-align: justify}
