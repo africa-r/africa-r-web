@@ -41,8 +41,8 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
-url_video: ''
+url_slides: 'https://bit.ly/forstringr-presentation-slide'
+url_video: 'https://youtu.be/fgCOWXGTzh8'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
