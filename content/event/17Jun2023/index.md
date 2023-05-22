@@ -60,7 +60,7 @@ slides:
 projects:
 ---
 
-### Date: 27 June 2023
+### Date: 17 June 2023
 
 ### Time: 10:00 - 11:30 Central African Time (CAT) - [check your local time and add to your calendar](https://arewemeetingyet.com/Johannesburg/2023-06-27/10:00/Resources%20to%20begin%20your%20journey%20with%20R#eyJ1cmwiOiJodHRwczovL3d3dy5tZWV0dXAuY29tL3JsYWRpZXMtZ2Fib3JvbmUvZXZlbnRzLzI5MzYzMjMzMCJ9)
 
