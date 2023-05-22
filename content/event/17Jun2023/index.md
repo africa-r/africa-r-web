@@ -20,8 +20,8 @@ abstract: 'The Carpentries teaches foundational coding and data science skills t
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-06-27T10:00:00Z'
-date_end: '2023-06-27T11:30:00Z'
+date: '2023-06-17T10:00:00Z'
+date_end: '2023-06-17T11:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
